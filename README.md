@@ -1,4 +1,4 @@
-### パンケーキ🥞 ![](https://views.whatilearened.today/views/github/yokonsan/yokonsan.svg)
+### パンケーキ🥞 ![Visitor Count](https://profile-counter.glitch.me/Misaka1932/count.svg)
 
 喜欢猫猫的都是好人
 
