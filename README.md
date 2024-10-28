@@ -1,10 +1,8 @@
-### パンケーキ🥞 ![Visitor Count](https://profile-counter.glitch.me/Misaka1932/count.svg)
+### パンケーキ🥞
 
 喜欢猫猫的都是好人
 
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Misaka1932&count_private=true&show_icons=true" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Misaka1932&show_icons=true&theme=tokyonight)
 
 🔥 **About Me**
 
